@@ -242,14 +242,16 @@ font-family: 'Inter', sans-serif;
     background-repeat: no-repeat;
     background-position: bottom;
 }
+
+
 .sale-title {
     font-size: 72px;
     font-weight: 900;
-    margin-top: 16px;
+    margin-top: 16;
+    font-family: 'Inter', sans-serif
 }
-.holiday-sale-container h1{
-    margin-bottom: 30px;
-}
+
+
 
 .holiday-img-container {
     margin-top: 60px;
@@ -258,13 +260,21 @@ font-family: 'Inter', sans-serif;
 }
 
 .holiday-img-container img {
-    width: 40%;
+    width: 35%;
 }
 
 .discount-img {
     position: relative;
     bottom: 400px;
     left: 100px;
+}
+.extra{
+    font-family: 'Inter', sans-serif;
+    color: #070211;
+font-size: 24px;
+font-weight: 500;
+line-height: normal;
+margin-bottom: 20px;;
 }
 .text-primary{
     color: #F00;
